@@ -435,7 +435,6 @@ class Main:
 		print(logo)
 		print(" ══════════════════════════════════════════════════")
 		print("\033[1;37m")
-		print(" \033[1;37m[1]\033[1;37m FILE Cloning ("Coming Soon")
 		print(" \033[1;37m[2] CRACK PUBLICK ID")
 		print(" \33[1;37m[3 PAK ID CLONING")
 		print(" \033[1;37m[4] 2004 TO 2010[Just Now]")
